@@ -1,0 +1,11 @@
+{
+  "name": "ts-tamagotchi",
+  "version": "1.0.0",
+  "description": "A virtual pet project utilising Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Billy Morrison",
+  "license": "ISC"
+}
