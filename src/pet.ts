@@ -13,10 +13,9 @@ export class Pet {
         this.fitness = STARTING_FITNESS;
     }
 
-    growUp(): number {
+    growUp(): void {
         this.age += 1
         this.hunger += 3
         this.fitness -= 2
-        return this.age
     }
 }
